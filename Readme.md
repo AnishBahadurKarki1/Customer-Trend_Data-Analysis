@@ -31,12 +31,12 @@ The dataset used in this project is a customer shopping behavior dataset collect
 
 ## Tools & Technologies
 
-- Python  
-- Jupyter Notebook  
-- Pandas and NumPy for data analysis  
-- Matplotlib and Seaborn for data visualization  
-- Power BI for dashboard creation  
-- GitHub for version control  
+- Python – data cleaning, analysis, and exploration  
+- Jupyter Notebook – writing and running analysis code  
+- PostgreSQL – storing data and running SQL queries  
+- SQL – extracting insights from the database  
+- Power BI – creating interactive dashboards and visualizations  
+- GitHub – version control and project sharing  
 
 ## Project Workflow
 
